@@ -1,2 +1,2 @@
-.vagina{}
-.meCagoEnAndy{}
+.vaginaDeAndy{}
+.meCagoEnlaVaginaDeAndy{}
